@@ -6,7 +6,8 @@
             "brand": "Apple",
             "category": "smartphones",
             "price": 549,
-            "stock": 94
+            "stock": 94,
+            "description": "An apple mobile which is nothing like apple"
         },
         {
             "id": 2,
@@ -15,7 +16,8 @@
             "brand": "Apple",
             "category": "smartphones",
             "price": 899,
-            "stock": 34
+            "stock": 34,
+            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ..."
         },
         {
             "id": 3,
@@ -24,7 +26,8 @@
             "brand": "Samsung",
             "category": "smartphones",
             "price": 1249,
-            "stock": 36
+            "stock": 36,
+            "description": "Samsung's new variant which goes beyond Galaxy to the Universe"
         },
         {
             "id": 4,
@@ -33,7 +36,8 @@
             "brand": "OPPO",
             "category": "smartphones",
             "price": 280,
-            "stock": 123
+            "stock": 123,
+            "description": "OPPO F19 is officially announced on April 2021."
         },
         {
             "id": 5,
@@ -42,7 +46,8 @@
             "brand": "Huawei",
             "category": "smartphones",
             "price": 499,
-            "stock": 32
+            "stock": 32,
+            "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK."
         },
         {
             "id": 6,
@@ -51,7 +56,8 @@
             "brand": "APPle",
             "category": "laptops",
             "price": 1749,
-            "stock": 83
+            "stock": 83,
+            "description": "MacBook Pro 2021 with mini-LED display may launch between September, November"
         },
         {
             "id": 7,
@@ -60,7 +66,8 @@
             "brand": "Samsung",
             "category": "laptops",
             "price": 1499,
-            "stock": 50
+            "stock": 50,
+            "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched"
         },
         {
             "id": 8,
@@ -69,7 +76,8 @@
             "brand": "Microsoft Surface",
             "category": "laptops",
             "price": 1499,
-            "stock": 68
+            "stock": 68,
+            "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen."
         },
         {
             "id": 9,
@@ -78,7 +86,8 @@
             "brand": "Infinix",
             "category": "laptops",
             "price": 1099,
-            "stock": 96
+            "stock": 96,
+            "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty"
         },
         {
             "id": 10,
@@ -87,7 +96,8 @@
             "brand": "HP Pavilion",
             "category": "laptops",
             "price": 1099,
-            "stock": 89
+            "stock": 89,
+            "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10"
         },
         {
             "id": 11,
@@ -96,7 +106,8 @@
             "brand": "Impression of Acqua Di Gio",
             "category": "fragrances",
             "price": 13,
-            "stock": 65
+            "stock": 65,
+            "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil"
         },
         {
             "id": 12,
@@ -105,7 +116,8 @@
             "brand": "Royal_Mirage",
             "category": "fragrances",
             "price": 40,
-            "stock": 52
+            "stock": 52,
+            "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml"
         },
         {
             "id": 13,
@@ -114,7 +126,8 @@
             "brand": "Fog Scent Xpressio",
             "category": "fragrances",
             "price": 13,
-            "stock": 61
+            "stock": 61,
+            "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men"
         },
         {
             "id": 14,
@@ -123,7 +136,8 @@
             "brand": "Al Munakh",
             "category": "fragrances",
             "price": 120,
-            "stock": 114
+            "stock": 114,
+            "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil"
         },
         {
             "id": 15,
@@ -132,7 +146,8 @@
             "brand": "Lord - Al-Rehab",
             "category": "fragrances",
             "price": 30,
-            "stock": 105
+            "stock": 105,
+            "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality"
         },
         {
             "id": 16,
@@ -141,7 +156,8 @@
             "brand": "L'Oreal Paris",
             "category": "skincare",
             "price": 19,
-            "stock": 110
+            "stock": 110,
+            "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid"
         },
         {
             "id": 17,
@@ -150,7 +166,8 @@
             "brand": "Hemani Tea",
             "category": "skincare",
             "price": 12,
-            "stock": 78
+            "stock": 78,
+            "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,"
         },
         {
             "id": 18,
@@ -159,7 +176,8 @@
             "brand": "Dermive",
             "category": "skincare",
             "price": 40,
-            "stock": 88
+            "stock": 88,
+            "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen."
         },
         {
             "id": 19,
@@ -168,7 +186,8 @@
             "brand": "ROREC White Rice",
             "category": "skincare",
             "price": 46,
-            "stock": 54
+            "stock": 54,
+            "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m"
         },
         {
             "id": 20,
@@ -177,7 +196,8 @@
             "brand": "Fair & Clear",
             "category": "skincare",
             "price": 70,
-            "stock": 140
+            "stock": 140,
+            "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects."
         },
         {
             "id": 21,
@@ -186,7 +206,8 @@
             "brand": "Saaf & Khaas",
             "category": "groceries",
             "price": 20,
-            "stock": 133
+            "stock": 133,
+            "description": "Fine quality Branded Product Keep in a cool and dry place"
         },
         {
             "id": 22,
@@ -195,7 +216,8 @@
             "brand": "Bake Parlor Big",
             "category": "groceries",
             "price": 14,
-            "stock": 146
+            "stock": 146,
+            "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm"
         },
         {
             "id": 23,
@@ -204,7 +226,8 @@
             "brand": "Baking Food Items",
             "category": "groceries",
             "price": 14,
-            "stock": 26
+            "stock": 26,
+            "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item"
         },
         {
             "id": 24,
@@ -213,7 +236,8 @@
             "brand": "fauji",
             "category": "groceries",
             "price": 46,
-            "stock": 113
+            "stock": 113,
+            "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji"
         },
         {
             "id": 25,
@@ -222,7 +246,8 @@
             "brand": "Dry Rose",
             "category": "groceries",
             "price": 70,
-            "stock": 47
+            "stock": 47,
+            "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds"
         },
         {
             "id": 26,
@@ -231,7 +256,8 @@
             "brand": "Boho Decor",
             "category": "home-decoration",
             "price": 41,
-            "stock": 131
+            "stock": 131,
+            "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf"
         },
         {
             "id": 27,
@@ -240,7 +266,8 @@
             "brand": "Flying Wooden",
             "category": "home-decoration",
             "price": 51,
-            "stock": 17
+            "stock": 17,
+            "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm"
         },
         {
             "id": 28,
@@ -249,7 +276,8 @@
             "brand": "LED Lights",
             "category": "home-decoration",
             "price": 20,
-            "stock": 54
+            "stock": 54,
+            "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)"
         },
         {
             "id": 29,
@@ -258,7 +286,8 @@
             "brand": "luxury palace",
             "category": "home-decoration",
             "price": 60,
-            "stock": 7
+            "stock": 7,
+            "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate"
         },
         {
             "id": 30,
@@ -267,6 +296,707 @@
             "brand": "Golden",
             "category": "home-decoration",
             "price": 30,
-            "stock": 54
+            "stock": 54,
+            "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality"
+        },
+        {
+            "id": 31,
+            "thumbnail": "https://i.dummyjson.com/data/products/31/thumbnail.jpg",
+            "title": "Mornadi Velvet Bed",
+            "brand": "Furniture Bed Set",
+            "category": "furniture",
+            "price": 40,
+            "stock": 140,
+            "description": "Mornadi Velvet Bed Base with Headboard Slats Support Classic Style Bedroom Furniture Bed Set"
+        },
+        {
+            "id": 32,
+            "thumbnail": "https://i.dummyjson.com/data/products/32/thumbnail.jpg",
+            "title": "Sofa for Coffe Cafe",
+            "brand": "Ratttan Outdoor",
+            "category": "furniture",
+            "price": 50,
+            "stock": 30,
+            "description": "Ratttan Outdoor furniture Set Waterproof  Rattan Sofa for Coffe Cafe"
+        },
+        {
+            "id": 33,
+            "thumbnail": "https://i.dummyjson.com/data/products/33/thumbnail.jpg",
+            "title": "3 Tier Corner Shelves",
+            "brand": "Kitchen Shelf",
+            "category": "furniture",
+            "price": 700,
+            "stock": 106,
+            "description": "3 Tier Corner Shelves | 3 PCs Wall Mount Kitchen Shelf | Floating Bedroom Shelf"
+        },
+        {
+            "id": 34,
+            "thumbnail": "https://i.dummyjson.com/data/products/34/thumbnail.jpg",
+            "title": "Plastic Table",
+            "brand": "Multi Purpose",
+            "category": "furniture",
+            "price": 50,
+            "stock": 136,
+            "description": "V﻿ery good quality plastic table for multi purpose now in reasonable price"
+        },
+        {
+            "id": 35,
+            "thumbnail": "https://i.dummyjson.com/data/products/35/thumbnail.jpg",
+            "title": "3 DOOR PORTABLE",
+            "brand": "AmnaMart",
+            "category": "furniture",
+            "price": 41,
+            "stock": 68,
+            "description": "Material: Stainless Steel and Fabric  Item Size: 110 cm x 45 cm x 175 cm Package Contents: 1 Storage Wardrobe"
+        },
+        {
+            "id": 36,
+            "thumbnail": "https://i.dummyjson.com/data/products/36/thumbnail.jpg",
+            "title": "Sleeve Shirt Womens",
+            "brand": "Professional Wear",
+            "category": "tops",
+            "price": 90,
+            "stock": 39,
+            "description": "Cotton Solid Color Professional Wear Sleeve Shirt Womens Work Blouses Wholesale Clothing Casual Plain Custom Top OEM Customized"
+        },
+        {
+            "id": 37,
+            "thumbnail": "https://i.dummyjson.com/data/products/37/thumbnail.jpg",
+            "title": "ank Tops for Womens/Girls",
+            "brand": "Soft Cotton",
+            "category": "tops",
+            "price": 50,
+            "stock": 107,
+            "description": "PACK OF 3 CAMISOLES ,VERY COMFORTABLE SOFT COTTON STUFF, COMFORTABLE IN ALL FOUR SEASONS"
+        },
+        {
+            "id": 38,
+            "thumbnail": "https://i.dummyjson.com/data/products/38/thumbnail.jpg",
+            "title": "sublimation plain kids tank",
+            "brand": "Soft Cotton",
+            "category": "tops",
+            "price": 100,
+            "stock": 20,
+            "description": "sublimation plain kids tank tops wholesale"
+        },
+        {
+            "id": 39,
+            "thumbnail": "https://i.dummyjson.com/data/products/39/thumbnail.jpg",
+            "title": "Women Sweaters Wool",
+            "brand": "Top Sweater",
+            "category": "tops",
+            "price": 600,
+            "stock": 55,
+            "description": "2021 Custom Winter Fall Zebra Knit Crop Top Women Sweaters Wool Mohair Cos Customize Crew Neck Women' S Crop Top Sweater"
+        },
+        {
+            "id": 40,
+            "thumbnail": "https://i.dummyjson.com/data/products/40/thumbnail.jpg",
+            "title": "women winter clothes",
+            "brand": "Top Sweater",
+            "category": "tops",
+            "price": 57,
+            "stock": 84,
+            "description": "women winter clothes thick fleece hoodie top with sweat pantjogger women sweatsuit set joggers pants two piece pants set"
+        },
+        {
+            "id": 41,
+            "thumbnail": "https://i.dummyjson.com/data/products/41/thumbnail.webp",
+            "title": "NIGHT SUIT",
+            "brand": "RED MICKY MOUSE..",
+            "category": "womens-dresses",
+            "price": 55,
+            "stock": 21,
+            "description": "NIGHT SUIT RED MICKY MOUSE..  For Girls. Fantastic Suits."
+        },
+        {
+            "id": 42,
+            "thumbnail": "https://i.dummyjson.com/data/products/42/thumbnail.jpg",
+            "title": "Stiched Kurta plus trouser",
+            "brand": "Digital Printed",
+            "category": "womens-dresses",
+            "price": 80,
+            "stock": 148,
+            "description": "FABRIC: LILEIN CHEST: 21 LENGHT: 37 TROUSER: (38) :ARABIC LILEIN"
+        },
+        {
+            "id": 43,
+            "thumbnail": "https://i.dummyjson.com/data/products/43/thumbnail.jpg",
+            "title": "frock gold printed",
+            "brand": "Ghazi Fabric",
+            "category": "womens-dresses",
+            "price": 600,
+            "stock": 150,
+            "description": "Ghazi fabric long frock gold printed ready to wear stitched collection (G992)"
+        },
+        {
+            "id": 44,
+            "thumbnail": "https://i.dummyjson.com/data/products/44/thumbnail.jpg",
+            "title": "Ladies Multicolored Dress",
+            "brand": "Ghazi Fabric",
+            "category": "womens-dresses",
+            "price": 79,
+            "stock": 2,
+            "description": "This classy shirt for women gives you a gorgeous look on everyday wear and specially for semi-casual wears."
+        },
+        {
+            "id": 45,
+            "thumbnail": "https://i.dummyjson.com/data/products/45/thumbnail.jpg",
+            "title": "Malai Maxi Dress",
+            "brand": "IELGY",
+            "category": "womens-dresses",
+            "price": 50,
+            "stock": 96,
+            "description": "Ready to wear, Unique design according to modern standard fashion, Best fitting ,Imported stuff"
+        },
+        {
+            "id": 46,
+            "thumbnail": "https://i.dummyjson.com/data/products/46/thumbnail.jpg",
+            "title": "women's shoes",
+            "brand": "IELGY fashion",
+            "category": "womens-shoes",
+            "price": 40,
+            "stock": 72,
+            "description": "Close: Lace, Style with bottom: Increased inside, Sole Material: Rubber"
+        },
+        {
+            "id": 47,
+            "thumbnail": "https://i.dummyjson.com/data/products/47/thumbnail.jpeg",
+            "title": "Sneaker shoes",
+            "brand": "Synthetic Leather",
+            "category": "womens-shoes",
+            "price": 120,
+            "stock": 50,
+            "description": "Synthetic Leather Casual Sneaker shoes for Women/girls Sneakers For Women"
+        },
+        {
+            "id": 48,
+            "thumbnail": "https://i.dummyjson.com/data/products/48/thumbnail.jpg",
+            "title": "Women Strip Heel",
+            "brand": "Sandals Flip Flops",
+            "category": "womens-shoes",
+            "price": 40,
+            "stock": 25,
+            "description": "Features: Flip-flops, Mid Heel, Comfortable, Striped Heel, Antiskid, Striped"
+        },
+        {
+            "id": 49,
+            "thumbnail": "https://i.dummyjson.com/data/products/49/thumbnail.jpg",
+            "title": "Chappals & Shoe Ladies Metallic",
+            "brand": "Maasai Sandals",
+            "category": "womens-shoes",
+            "price": 23,
+            "stock": 107,
+            "description": "Womens Chappals & Shoe Ladies Metallic Tong Thong Sandal Flat Summer 2020 Maasai Sandals"
+        },
+        {
+            "id": 50,
+            "thumbnail": "https://i.dummyjson.com/data/products/50/thumbnail.jpg",
+            "title": "Women Shoes",
+            "brand": "Arrivals Genuine",
+            "category": "womens-shoes",
+            "price": 36,
+            "stock": 46,
+            "description": "2020 New Arrivals Genuine Leather Fashion Trend Platform Summer Women Shoes"
+        },
+        {
+            "id": 51,
+            "thumbnail": "https://i.dummyjson.com/data/products/51/thumbnail.jpg",
+            "title": "half sleeves T shirts",
+            "brand": "Vintage Apparel",
+            "category": "mens-shirts",
+            "price": 23,
+            "stock": 132,
+            "description": "Many store is creating new designs and trend every month and every year. Daraz.pk have a beautiful range of men fashion brands"
+        },
+        {
+            "id": 52,
+            "thumbnail": "https://i.dummyjson.com/data/products/52/thumbnail.jpg",
+            "title": "FREE FIRE T Shirt",
+            "brand": "FREE FIRE",
+            "category": "mens-shirts",
+            "price": 10,
+            "stock": 128,
+            "description": "quality and professional print - It doesn't just look high quality, it is high quality."
+        },
+        {
+            "id": 53,
+            "thumbnail": "https://i.dummyjson.com/data/products/53/thumbnail.jpg",
+            "title": "printed high quality T shirts",
+            "brand": "Vintage Apparel",
+            "category": "mens-shirts",
+            "price": 35,
+            "stock": 6,
+            "description": "Brand: vintage Apparel ,Export quality"
+        },
+        {
+            "id": 54,
+            "thumbnail": "https://i.dummyjson.com/data/products/54/thumbnail.jpg",
+            "title": "Pubg Printed Graphic T-Shirt",
+            "brand": "The Warehouse",
+            "category": "mens-shirts",
+            "price": 46,
+            "stock": 136,
+            "description": "Product Description Features: 100% Ultra soft Polyester Jersey. Vibrant & colorful printing on front. Feels soft as cotton without ever cracking"
+        },
+        {
+            "id": 55,
+            "thumbnail": "https://i.dummyjson.com/data/products/55/thumbnail.jpg",
+            "title": "Money Heist Printed Summer T Shirts",
+            "brand": "The Warehouse",
+            "category": "mens-shirts",
+            "price": 66,
+            "stock": 122,
+            "description": "Fabric Jercy, Size: M & L Wear Stylish Dual Stiched"
+        },
+        {
+            "id": 56,
+            "thumbnail": "https://i.dummyjson.com/data/products/56/thumbnail.jpg",
+            "title": "Sneakers Joggers Shoes",
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "price": 40,
+            "stock": 6,
+            "description": "Gender: Men , Colors: Same as DisplayedCondition: 100% Brand New"
+        },
+        {
+            "id": 57,
+            "thumbnail": "https://i.dummyjson.com/data/products/57/thumbnail.jpg",
+            "title": "Loafers for men",
+            "brand": "Rubber",
+            "category": "mens-shoes",
+            "price": 47,
+            "stock": 20,
+            "description": "Men Shoes - Loafers for men - Rubber Shoes - Nylon Shoes - Shoes for men - Moccassion - Pure Nylon (Rubber) Expot Quality."
+        },
+        {
+            "id": 58,
+            "thumbnail": "https://i.dummyjson.com/data/products/58/thumbnail.jpg",
+            "title": "formal offices shoes",
+            "brand": "The Warehouse",
+            "category": "mens-shoes",
+            "price": 57,
+            "stock": 68,
+            "description": "Pattern Type: Solid, Material: PU, Toe Shape: Pointed Toe ,Outsole Material: Rubber"
+        },
+        {
+            "id": 59,
+            "thumbnail": "https://i.dummyjson.com/data/products/59/thumbnail.jpg",
+            "title": "Spring and summershoes",
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "price": 20,
+            "stock": 137,
+            "description": "Comfortable stretch cloth, lightweight body; ,rubber sole, anti-skid wear;"
+        },
+        {
+            "id": 60,
+            "thumbnail": "https://i.dummyjson.com/data/products/60/thumbnail.jpg",
+            "title": "Stylish Casual Jeans Shoes",
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "price": 58,
+            "stock": 129,
+            "description": "High Quality ,Stylish design ,Comfortable wear ,FAshion ,Durable"
+        },
+        {
+            "id": 61,
+            "thumbnail": "https://i.dummyjson.com/data/products/61/thumbnail.jpg",
+            "title": "Leather Straps Wristwatch",
+            "brand": "Naviforce",
+            "category": "mens-watches",
+            "price": 120,
+            "stock": 91,
+            "description": "Style:Sport ,Clasp:Buckles ,Water Resistance Depth:3Bar"
+        },
+        {
+            "id": 62,
+            "thumbnail": "https://i.dummyjson.com/data/products/62/thumbnail.jpg",
+            "title": "Waterproof Leather Brand Watch",
+            "brand": "SKMEI 9117",
+            "category": "mens-watches",
+            "price": 46,
+            "stock": 95,
+            "description": "Watch Crown With Environmental IPS Bronze Electroplating; Display system of 12 hours"
+        },
+        {
+            "id": 63,
+            "thumbnail": "https://i.dummyjson.com/data/products/63/thumbnail.webp",
+            "title": "Royal Blue Premium Watch",
+            "brand": "SKMEI 9117",
+            "category": "mens-watches",
+            "price": 50,
+            "stock": 142,
+            "description": "Men Silver Chain Royal Blue Premium Watch Latest Analog Watch"
+        },
+        {
+            "id": 64,
+            "thumbnail": "https://i.dummyjson.com/data/products/64/thumbnail.jpg",
+            "title": "Leather Strap Skeleton Watch",
+            "brand": "Strap Skeleton",
+            "category": "mens-watches",
+            "price": 46,
+            "stock": 61,
+            "description": "Leather Strap Skeleton Watch for Men - Stylish and Latest Design"
+        },
+        {
+            "id": 65,
+            "thumbnail": "https://i.dummyjson.com/data/products/65/thumbnail.webp",
+            "title": "Stainless Steel Wrist Watch",
+            "brand": "Stainless",
+            "category": "mens-watches",
+            "price": 47,
+            "stock": 94,
+            "description": "Stylish Watch For Man (Luxury) Classy Men's Stainless Steel Wrist Watch - Box Packed"
+        },
+        {
+            "id": 66,
+            "thumbnail": "https://i.dummyjson.com/data/products/66/thumbnail.jpg",
+            "title": "Steel Analog Couple Watches",
+            "brand": "Eastern Watches",
+            "category": "womens-watches",
+            "price": 35,
+            "stock": 24,
+            "description": "Elegant design, Stylish ,Unique & Trendy,Comfortable wear"
+        },
+        {
+            "id": 67,
+            "thumbnail": "https://i.dummyjson.com/data/products/67/thumbnail.jpg",
+            "title": "Fashion Magnetic Wrist Watch",
+            "brand": "Eastern Watches",
+            "category": "womens-watches",
+            "price": 60,
+            "stock": 46,
+            "description": "Buy this awesome  The product is originally manufactured by the company and it's a top selling product with a very reasonable"
+        },
+        {
+            "id": 68,
+            "thumbnail": "https://i.dummyjson.com/data/products/68/thumbnail.webp",
+            "title": "Stylish Luxury Digital Watch",
+            "brand": "Luxury Digital",
+            "category": "womens-watches",
+            "price": 57,
+            "stock": 77,
+            "description": "Stylish Luxury Digital Watch For Girls / Women - Led Smart Ladies Watches For Girls"
+        },
+        {
+            "id": 69,
+            "thumbnail": "https://i.dummyjson.com/data/products/69/thumbnail.jpg",
+            "title": "Golden Watch Pearls Bracelet Watch",
+            "brand": "Watch Pearls",
+            "category": "womens-watches",
+            "price": 47,
+            "stock": 89,
+            "description": "Product details of Golden Watch Pearls Bracelet Watch For Girls - Golden Chain Ladies Bracelate Watch for Women"
+        },
+        {
+            "id": 70,
+            "thumbnail": "https://i.dummyjson.com/data/products/70/thumbnail.jpg",
+            "title": "Stainless Steel Women",
+            "brand": "Bracelet",
+            "category": "womens-watches",
+            "price": 35,
+            "stock": 111,
+            "description": "Fashion Skmei 1830 Shell Dial Stainless Steel Women Wrist Watch Lady Bracelet Watch Quartz Watches Ladies"
+        },
+        {
+            "id": 71,
+            "thumbnail": "https://i.dummyjson.com/data/products/71/thumbnail.jpg",
+            "title": "Women Shoulder Bags",
+            "brand": "LouisWill",
+            "category": "womens-bags",
+            "price": 46,
+            "stock": 17,
+            "description": "LouisWill Women Shoulder Bags Long Clutches Cross Body Bags Phone Bags PU Leather Hand Bags Large Capacity Card Holders Zipper Coin Purses Fashion Crossbody Bags for Girls Ladies"
+        },
+        {
+            "id": 72,
+            "thumbnail": "https://i.dummyjson.com/data/products/72/thumbnail.webp",
+            "title": "Handbag For Girls",
+            "brand": "LouisWill",
+            "category": "womens-bags",
+            "price": 23,
+            "stock": 27,
+            "description": "This fashion is designed to add a charming effect to your casual outfit. This Bag is made of synthetic leather."
+        },
+        {
+            "id": 73,
+            "thumbnail": "https://i.dummyjson.com/data/products/73/thumbnail.jpg",
+            "title": "Fancy hand clutch",
+            "brand": "Bracelet",
+            "category": "womens-bags",
+            "price": 44,
+            "stock": 101,
+            "description": "This fashion is designed to add a charming effect to your casual outfit. This Bag is made of synthetic leather."
+        },
+        {
+            "id": 74,
+            "thumbnail": "https://i.dummyjson.com/data/products/74/thumbnail.jpg",
+            "title": "Leather Hand Bag",
+            "brand": "Copenhagen Luxe",
+            "category": "womens-bags",
+            "price": 57,
+            "stock": 43,
+            "description": "It features an attractive design that makes it a must have accessory in your collection. We sell different kind of bags for boys, kids, women, girls and also for unisex."
+        },
+        {
+            "id": 75,
+            "thumbnail": "https://i.dummyjson.com/data/products/75/thumbnail.jpg",
+            "title": "Seven Pocket Women Bag",
+            "brand": "Steal Frame",
+            "category": "womens-bags",
+            "price": 68,
+            "stock": 13,
+            "description": "Seven Pocket Women Bag Handbags Lady Shoulder Crossbody Bag Female Purse Seven Pocket Bag"
+        },
+        {
+            "id": 76,
+            "thumbnail": "https://i.dummyjson.com/data/products/76/thumbnail.jpg",
+            "title": "Silver Ring Set Women",
+            "brand": "Darojay",
+            "category": "womens-jewellery",
+            "price": 70,
+            "stock": 51,
+            "description": "Jewelry Type:RingsCertificate Type:NonePlating:Silver PlatedShapeattern:noneStyle:CLASSICReligious"
+        },
+        {
+            "id": 77,
+            "thumbnail": "https://i.dummyjson.com/data/products/77/thumbnail.jpg",
+            "title": "Rose Ring",
+            "brand": "Copenhagen Luxe",
+            "category": "womens-jewellery",
+            "price": 100,
+            "stock": 149,
+            "description": "Brand: The Greetings Flower Colour: RedRing Colour: GoldenSize: Adjustable"
+        },
+        {
+            "id": 78,
+            "thumbnail": "https://i.dummyjson.com/data/products/78/thumbnail.jpg",
+            "title": "Rhinestone Korean Style Open Rings",
+            "brand": "Fashion Jewellery",
+            "category": "womens-jewellery",
+            "price": 30,
+            "stock": 9,
+            "description": "Fashion Jewellery 3Pcs Adjustable Pearl Rhinestone Korean Style Open Rings For Women"
+        },
+        {
+            "id": 79,
+            "thumbnail": "https://i.dummyjson.com/data/products/79/thumbnail.jpg",
+            "title": "Elegant Female Pearl Earrings",
+            "brand": "Fashion Jewellery",
+            "category": "womens-jewellery",
+            "price": 30,
+            "stock": 16,
+            "description": "Elegant Female Pearl Earrings Set Zircon Pearl Earings Women Party Accessories 9 Pairs/Set"
+        },
+        {
+            "id": 80,
+            "thumbnail": "https://i.dummyjson.com/data/products/80/thumbnail.jpg",
+            "title": "Chain Pin Tassel Earrings",
+            "brand": "Cuff Butterfly",
+            "category": "womens-jewellery",
+            "price": 45,
+            "stock": 9,
+            "description": "Pair Of Ear Cuff Butterfly Long Chain Pin Tassel Earrings - Silver ( Long Life Quality Product)"
+        },
+        {
+            "id": 81,
+            "thumbnail": "https://i.dummyjson.com/data/products/81/thumbnail.jpg",
+            "title": "Round Silver Frame Sun Glasses",
+            "brand": "Designer Sun Glasses",
+            "category": "sunglasses",
+            "price": 19,
+            "stock": 78,
+            "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,"
+        },
+        {
+            "id": 82,
+            "thumbnail": "https://i.dummyjson.com/data/products/82/thumbnail.jpg",
+            "title": "Kabir Singh Square Sunglass",
+            "brand": "Designer Sun Glasses",
+            "category": "sunglasses",
+            "price": 50,
+            "stock": 78,
+            "description": "Orignal Metal Kabir Singh design 2020 Sunglasses Men Brand Designer Sun Glasses Kabir Singh Square Sunglass"
+        },
+        {
+            "id": 83,
+            "thumbnail": "https://i.dummyjson.com/data/products/83/thumbnail.jpg",
+            "title": "Wiley X Night Vision Yellow Glasses",
+            "brand": "mastar watch",
+            "category": "sunglasses",
+            "price": 30,
+            "stock": 115,
+            "description": "Wiley X Night Vision Yellow Glasses for Riders - Night Vision Anti Fog Driving Glasses - Free Night Glass Cover - Shield Eyes From Dust and Virus- For Night Sport Matches"
+        },
+        {
+            "id": 84,
+            "thumbnail": "https://i.dummyjson.com/data/products/84/thumbnail.jpg",
+            "title": "Square Sunglasses",
+            "brand": "mastar watch",
+            "category": "sunglasses",
+            "price": 28,
+            "stock": 64,
+            "description": "Fashion Oversized Square Sunglasses Retro Gradient Big Frame Sunglasses For Women One Piece Gafas Shade Mirror Clear Lens 17059"
+        },
+        {
+            "id": 85,
+            "thumbnail": "https://i.dummyjson.com/data/products/85/thumbnail.jpg",
+            "title": "LouisWill Men Sunglasses",
+            "brand": "LouisWill",
+            "category": "sunglasses",
+            "price": 50,
+            "stock": 92,
+            "description": "LouisWill Men Sunglasses Polarized Sunglasses UV400 Sunglasses Day Night Dual Use Safety Driving Night Vision Eyewear AL-MG Frame Sun Glasses with Free Box for Drivers"
+        },
+        {
+            "id": 86,
+            "thumbnail": "https://i.dummyjson.com/data/products/86/thumbnail.jpg",
+            "title": "Bluetooth Aux",
+            "brand": "Car Aux",
+            "category": "automotive",
+            "price": 25,
+            "stock": 22,
+            "description": "Bluetooth Aux Bluetooth Car Aux Car Bluetooth Transmitter Aux Audio Receiver Handfree Car Bluetooth Music Receiver Universal 3.5mm Streaming A2DP Wireless Auto AUX Audio Adapter With Mic For Phone MP3"
+        },
+        {
+            "id": 87,
+            "thumbnail": "https://i.dummyjson.com/data/products/87/thumbnail.jpg",
+            "title": "t Temperature Controller Incubator Controller",
+            "brand": "W1209 DC12V",
+            "category": "automotive",
+            "price": 40,
+            "stock": 37,
+            "description": "Both Heat and Cool Purpose, Temperature control range; -50 to +110, Temperature measurement accuracy; 0.1, Control accuracy; 0.1"
+        },
+        {
+            "id": 88,
+            "thumbnail": "https://i.dummyjson.com/data/products/88/thumbnail.jpg",
+            "title": "TC Reusable Silicone Magic Washing Gloves",
+            "brand": "TC Reusable",
+            "category": "automotive",
+            "price": 29,
+            "stock": 42,
+            "description": "TC Reusable Silicone Magic Washing Gloves with Scrubber, Cleaning Brush Scrubber Gloves Heat Resistant Pair for Cleaning of Kitchen, Dishes, Vegetables and Fruits, Bathroom, Car Wash, Pet Care and Multipurpose"
+        },
+        {
+            "id": 89,
+            "thumbnail": "https://i.dummyjson.com/data/products/89/thumbnail.jpg",
+            "title": "Qualcomm original Car Charger",
+            "brand": "TC Reusable",
+            "category": "automotive",
+            "price": 40,
+            "stock": 79,
+            "description": "best Quality CHarger , Highly Recommended to all best Quality CHarger , Highly Recommended to all"
+        },
+        {
+            "id": 90,
+            "thumbnail": "https://i.dummyjson.com/data/products/90/thumbnail.jpg",
+            "title": "Cycle Bike Glow",
+            "brand": "Neon LED Light",
+            "category": "automotive",
+            "price": 35,
+            "stock": 63,
+            "description": "Universal fitment and easy to install no special wires, can be easily installed and removed. Fits most standard tyre air stem valves of road, mountain bicycles, motocycles and cars.Bright led will turn on w"
+        },
+        {
+            "id": 91,
+            "thumbnail": "https://i.dummyjson.com/data/products/91/thumbnail.jpg",
+            "title": "Black Motorbike",
+            "brand": "METRO 70cc Motorcycle - MR70",
+            "category": "motorcycle",
+            "price": 569,
+            "stock": 115,
+            "description": "Engine Type:Wet sump, Single Cylinder, Four Stroke, Two Valves, Air Cooled with SOHC (Single Over Head Cam) Chain Drive Bore & Stroke:47.0 x 49.5 MM"
+        },
+        {
+            "id": 92,
+            "thumbnail": "https://i.dummyjson.com/data/products/92/thumbnail.jpg",
+            "title": "HOT SALE IN EUROPE electric racing motorcycle",
+            "brand": "BRAVE BULL",
+            "category": "motorcycle",
+            "price": 920,
+            "stock": 22,
+            "description": "HOT SALE IN EUROPE electric racing motorcycle electric motorcycle for sale adult electric motorcycles"
+        },
+        {
+            "id": 93,
+            "thumbnail": "https://i.dummyjson.com/data/products/93/thumbnail.jpg",
+            "title": "Automatic Motor Gas Motorcycles",
+            "brand": "shock absorber",
+            "category": "motorcycle",
+            "price": 1050,
+            "stock": 127,
+            "description": "150cc 4-Stroke Motorcycle Automatic Motor Gas Motorcycles Scooter motorcycles 150cc scooter"
+        },
+        {
+            "id": 94,
+            "thumbnail": "https://i.dummyjson.com/data/products/94/thumbnail.webp",
+            "title": "new arrivals Fashion motocross goggles",
+            "brand": "JIEPOLLY",
+            "category": "motorcycle",
+            "price": 900,
+            "stock": 109,
+            "description": "new arrivals Fashion motocross goggles motorcycle motocross racing motorcycle"
+        },
+        {
+            "id": 95,
+            "thumbnail": "https://i.dummyjson.com/data/products/95/thumbnail.jpg",
+            "title": "Wholesale cargo lashing Belt",
+            "brand": "Xiangle",
+            "category": "motorcycle",
+            "price": 930,
+            "stock": 144,
+            "description": "Wholesale cargo lashing Belt Tie Down end Ratchet strap customized strap 25mm motorcycle 1500kgs with rubber handle"
+        },
+        {
+            "id": 96,
+            "thumbnail": "https://i.dummyjson.com/data/products/96/thumbnail.jpg",
+            "title": "lighting ceiling kitchen",
+            "brand": "lightingbrilliance",
+            "category": "lighting",
+            "price": 30,
+            "stock": 96,
+            "description": "Wholesale slim hanging decorative kid room lighting ceiling kitchen chandeliers pendant light modern"
+        },
+        {
+            "id": 97,
+            "thumbnail": "https://i.dummyjson.com/data/products/97/thumbnail.jpg",
+            "title": "Metal Ceramic Flower",
+            "brand": "Ifei Home",
+            "category": "lighting",
+            "price": 35,
+            "stock": 146,
+            "description": "Metal Ceramic Flower Chandelier Home Lighting American Vintage Hanging Lighting Pendant Lamp"
+        },
+        {
+            "id": 98,
+            "thumbnail": "https://i.dummyjson.com/data/products/98/thumbnail.jpg",
+            "title": "3 lights lndenpant kitchen islang",
+            "brand": "DADAWU",
+            "category": "lighting",
+            "price": 34,
+            "stock": 44,
+            "description": "3 lights lndenpant kitchen islang dining room pendant rice paper chandelier contemporary led pendant light modern chandelier"
+        },
+        {
+            "id": 99,
+            "thumbnail": "https://i.dummyjson.com/data/products/99/thumbnail.jpg",
+            "title": "American Vintage Wood Pendant Light",
+            "brand": "Ifei Home",
+            "category": "lighting",
+            "price": 46,
+            "stock": 138,
+            "description": "American Vintage Wood Pendant Light Farmhouse Antique Hanging Lamp Lampara Colgante"
+        },
+        {
+            "id": 100,
+            "thumbnail": "https://i.dummyjson.com/data/products/100/thumbnail.jpg",
+            "title": "Crystal chandelier maria theresa for 12 light",
+            "brand": "YIOSI",
+            "category": "lighting",
+            "price": 47,
+            "stock": 133,
+            "description": "Crystal chandelier maria theresa for 12 light"
         }
     ]
